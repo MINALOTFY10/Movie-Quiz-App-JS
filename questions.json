@@ -1,0 +1,70 @@
+{
+    "questions": [{
+            "question": "In (Jurassic Park), who plays John Hammond?",
+            "img": "https://images.typeform.com/images/zgnWQWvaYfX8/image/default-firstframe.png",
+            "answers": [
+                "Harrison Ford",
+                "Jeff Goldblum",
+                "Robert De Niro",
+                "Richard Attenborough"
+            ],
+            "correct_answer": "Richard Attenborough"
+        },
+        {
+            "question": "Spielberg co-wrote the script for, but didn't direct…?",
+            "img": "https://images.typeform.com/images/db2GLYbPCF6b/background/large",
+            "answers": [
+                "Poltergeist (1982)",
+                "The Color Purple (1985)",
+                "Saving Private Ryan (1998)",
+                "The French Dispatch (2020)"
+            ],
+            "correct_answer": "Poltergeist (1982)"
+        },
+        {
+            "question": "Who played the lead role in the movie 'Forrest Gump'?",
+            "img": "https://images.typeform.com/images/PDnfLxNa4rU7/image/default-firstframe.png",
+            "answers": [
+                "Tom Cruise",
+                "Tom Hanks",
+                "Brad Pitt",
+                "Leonardo DiCaprio"
+            ],
+            "correct_answer": "Tom Hanks"
+        },
+        {
+            "question": "Schindler's List (1993) won 7 Oscars. But how many was it nominated for, in total?",
+            "img": "https://images.typeform.com/images/iihmQkiMA5Tj/background/large",
+            "answers": [
+                "12",
+                "9",
+                "11",
+                "5"
+            ],
+            "correct_answer": "12"
+        },
+        {
+            "question": "In the first harry potter movie, Where was Harry Potter born?",
+            "img": "https://images.typeform.com/images/rypyEENPFpDA/background/large",
+            "answers": [
+                "In a Muggle hospital in Surrey",
+                "In the Chamber of Secrets",
+                "Godric's Hollow",
+                "In a magical forest in Wales"
+            ],
+            "correct_answer": "Godric's Hollow"
+        },
+        {
+            "question": "Complete this classic line from Jaws (1975): 'You're gonna need a bigger …'",
+            "img": "https://images.typeform.com/images/GM5qh2FZxpZX/background/large",
+            "answers": [
+                "idea",
+                "boat",
+                "gun",
+                "car"
+            ],
+            "correct_answer": "boat"
+        }
+
+    ]
+}

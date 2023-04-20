@@ -1,4 +1,4 @@
-# Quiz App
+# Movie Quiz App
 This is a simple Quiz Application built using HTML, CSS, JavaScript, JSON, and Ajax. It allows users to answer a series of questions and provides immediate feedback on whether their answers are correct or not.
 
 ## Getting Started

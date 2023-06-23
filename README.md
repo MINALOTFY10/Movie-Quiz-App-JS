@@ -11,6 +11,14 @@ The app will immediately provide feedback on whether your answer is correct or n
 
 Once you have answered all of the questions, the app will display your score, as well as a list of all the questions and your answers.
 
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Ajax (XHR)
+- JASON
+
+
 ## Code Overview
 The main code for the Quiz App is contained in the script.js file. Here is a brief overview of what each part of the code does:
 
@@ -21,5 +29,7 @@ addQuestionData(obj, count): This function adds the current question to the HTML
 checkAnswer(obj, rAnswer, count): This function checks the user's answer against the correct answer and updates the score accordingly.
 
 showResults(count): This function shows the user's score once all of the questions have been answered.
+
+## Video
 
 

@@ -16,7 +16,7 @@ Once you have answered all of the questions, the app will display your score, as
 - CSS
 - JavaScript
 - Ajax (XHR)
-- JASON
+- JSON
 
 
 ## Code Overview

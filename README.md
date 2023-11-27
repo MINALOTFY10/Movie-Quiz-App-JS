@@ -3,6 +3,9 @@ This is a simple Quiz Application built using HTML, CSS, JavaScript, JSON, and A
 
 ## Getting Started
 To get started with the Quiz App, you will need to clone or download the repository to your local machine. Once you have downloaded the repository, youCancel changes can open the index.html file in your web browser to start the quiz.
+<div align="center">
+<img src="./App Screenshots/one.png" alt="./Screenshot/one.png" height="400">
+</div>
 
 ## Usage
 When you open the Quiz App, it will display a series of questions, one at a time. To answer a question, simply click on the radio button next to the answer that you think is correct. Once you have answered a question, click the "Submit" button to see if your answer is correct.
